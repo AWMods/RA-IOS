@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="disable_hiddenchat_access" value="false" />
+    <boolean name="statuschat" value="true" />
+    <boolean name="want_status_toast" value="true" />
+    <boolean name="my_statusd" value="true" />
+    <string name="key_quick_position">top</string>
+    <boolean name="imsHideVStatus" value="false" />
+    <boolean name="newAttach_BottomDesign" value="true" />
+    <boolean name="hide_action_l" value="false" />
+    <boolean name="hide_action_m" value="false" />
+    <boolean name="Conv_call_btn" value="false" />
+    <boolean name="Audio_sensor" value="false" />
+    <boolean name="Hide_div" value="false" />
+    <boolean name="imsHideRStatus" value="false" />
+    <boolean name="hide_message_bomber" value="false" />
+    <boolean name="log_show_name_check" value="true" />
+    <boolean name="isSwipeEnabledV2" value="false" />
+    <boolean name="NameProf" value="false" />
+    <boolean name="custom_wall_profilepic" value="false" />
+    <boolean name="Hide_contact_picker_section_other_contacts" value="false" />
+    <boolean name="stkr_wantsendconfirmation" value="true" />
+    <boolean name="enable_ig_stories" value="false" />
+    <boolean name="onlinechat" value="false" />
+    <boolean name="enable_fivminstatus" value="false" />
+    <string name="ConvoEntry">28</string>
+    <string name="ui_home_styleV3">stock</string>
+    <boolean name="chats_show_contact_online_toast_check" value="true" />
+    <string name="key_story_view">0</string>
+    <string name="tick_style">stockorg</string>
+    <boolean name="read_more" value="false" />
+    <boolean name="yo_want_airplanemode" value="true" />
+    <boolean name="hide_fab" value="true" />
+    <boolean name="enable_grp_separationV2" value="true" />
+    <boolean name="chat_contactpicV2" value="false" />
+    <boolean name="yo_want_nightmode" value="true" />
+    <boolean name="yo_multi_account_menu" value="true" />
+    <boolean name="imsHideMStatus" value="false" />
+    <boolean name="chat_mypicV2" value="false" />
+    <boolean name="key_quick_view" value="true" />
+    <boolean name="group_mypicV2" value="false" />
+    <boolean name="my_name" value="false" />
+    <boolean name="key_with_thumb" value="false" />
+    <int name="pic_chat_size_pickerV2" value="40" />
+    <boolean name="TxtSelect" value="false" />
+    <boolean name="custom_wall" value="false" />
+    <boolean name="elapsed_time" value="false" />
+    <boolean name="yo_hideinfo" value="true" />
+    <boolean name="PicProf" value="false" />
+    <boolean name="Hide_contact_picker_section_recent_chats" value="false" />
+    <boolean name="hide_acv" value="true" />
+    <boolean name="hide_action_a" value="false" />
+    <boolean name="Audio_ears" value="false" />
+    <boolean name="hide_action_b" value="false" />
+    <string name="inconvo_trans_option">in-y</string>
+    <boolean name="hiden_group" value="true" />
+    <int name="square_photo_ratio_picker" value="100" />
+    <string name="bubble_style">yousef</string>
+    <boolean name="group_participants_picV2" value="false" />
+    <boolean name="onlineDotchat" value="false" />
+    <string name="HomeEntry">yousef</string>
+    <boolean name="Hide_contact_picker_section_frequent_chats" value="false" />
+    <string name="pic_startlocation">1</string>
+    <boolean name="AttBt" value="false" />
+    <boolean name="pic_inside" value="false" />
+    <int name="main_text" value="17" />
+    <boolean name="yo_hide_msg_translator" value="false" />
+    <boolean name="hiden_sech" value="true" />
+    <int name="text_size_pick" value="16" />
+</map>
