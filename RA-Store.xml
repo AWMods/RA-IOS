@@ -1,11 +1,18 @@
-<?​xml​ version​=​"​1.0​"​ encoding​=​"​UTF-8​"​?> 
-  
- ​<​themes​> 
- ​<​data​ ​xmls​=​"https://github.com/AWMods/RA-IOS/tree/main/Xmls/"​ ​walls​=​"​https://github.com/AWMods/RA-IOS/tree/main/Walls/"​ ​scs​=​"​https://github.com/AWMods/RA-IOS/tree/main/Screens/"​/> 
-  
- ​<​theme​> 
- ​<​title​>RA-DARK</​title​> 
- ​<​date​>12/04/2022</​date​> 
- ​</​theme​>
+<?xml version="1.0" encoding="UTF-8"?>
 
- ​<​/themes​> 
+<themes>
+<data xmls="http://servar.uiwhatsapp.com/Themes/Xmls/" walls="http://servar.uiwhatsapp.com/Themes/well/" scs="http://servar.uiwhatsapp.com/Themes/screen/"/>
+
+<theme>
+<title>RamadanIos</title>
+<date>BY Elsayed Khater</date>
+</theme>
+<theme>
+<title>IGLight</title>
+<date>BY Ui Team</date>
+</theme>
+<theme>
+<title>DarkFacebook</title>
+<date>BY Ui Team</date>
+</theme>
+</themes>
