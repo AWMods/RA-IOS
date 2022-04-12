@@ -1,7 +1,7 @@
 <?​xml​ version​=​"​1.0​"​ encoding​=​"​UTF-8​"​?> 
   
  ​<​themes​> 
- ​<​data​ ​xmls​=​"​https://github.com/AWMods/xml/"​ ​walls​=​"​https://github.com/AWMods/walls/"​ ​scs​=​"​https://github.com/AWMods/screen/"​/> 
+ ​<​data​ ​xmls​=​"https://github.com/AWMods/RA-IOS/tree/main/Xmls/"​ ​walls​=​"​https://github.com/AWMods/RA-IOS/tree/main/Walls/"​ ​scs​=​"​https://github.com/AWMods/RA-IOS/tree/main/Screens/"​/> 
   
  ​<​theme​> 
  ​<​title​>RA-DARK</​title​> 
