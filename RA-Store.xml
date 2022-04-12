@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <themes>
-<data xmls="https://raw.githubusercontent.com/AWMods/RA-IOS/tree/main/Xmls/" walls="https://raw.githubusercontent.com/AWMods/RA-IOS/tree/main/Walls/" scs="https://raw.githubusercontent.com/AWMods/RA-IOS/main/Screens/"/>
+<data xmls="https://github.com/AWMods/RA-IOS/tree/main/Xmls/" walls="https://raw.githubusercontent.com/AWMods/RA-IOS/tree/main/Walls/" scs="https://raw.githubusercontent.com/AWMods/RA-IOS/main/Screens/"/>
 
 <theme>
 <title>RA-DARK</title>
